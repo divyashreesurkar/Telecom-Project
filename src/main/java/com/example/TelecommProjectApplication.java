@@ -8,7 +8,7 @@ public class TelecommProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TelecommProjectApplication.class, args);
-	    System.out.println("Hello");
+	   
 	}
 
 }
